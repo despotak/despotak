@@ -9,17 +9,23 @@ email: christos@despotak.is
 website: christos.despotak.is
 
 # Social links
-twitter_username: despotak
+# -- Work & Carreer --
 github_username:  despotak
-# dribbble_username: jekyll
+linkedin_username: despotak
+# -- Social & Friends --
+twitter_username: despotak
 # facebook_username: jekyll
+# googleplus_username: +jekyll
+# dribbble_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: despotak
 # pinterest_username: jekyll
+reddit_username: despotak
+# -- Video & Livestreaming --
 youtube_username: despotak
-# googleplus_username: +jekyll
 twitch_username: cdr_archangel
+mixer_username: cdr_archangel
+# -- VoIP & Chat --
 
 # About Section
 # about_title: About Me

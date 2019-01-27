@@ -97,6 +97,13 @@
                   </a>
                 </li>
               {%- endif -%}
+              {%- if site.mixer_username -%}
+                <li>
+                  <a target="_blank" href="https://mixer.com/{{ site.mixer_username| escape }}" class="button button--sacnite button--round-l">
+                    <i class="fa fa-mixer" title="Mixer link"></i>
+                  </a>
+                </li>
+              {%- endif -%}
             </ul>
       
             {%- if site.email -%}
