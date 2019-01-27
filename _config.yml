@@ -1,10 +1,10 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Christos Despotakis
-title: Senior Network System Administrator
+title: Software Architect and Engineer
 email: christos@despotak.is
 website: christos.despotak.is
 
@@ -40,8 +40,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Role Playing games
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Pen & Paper Role Playing Games
    - Video Games
    - Cycling
 
