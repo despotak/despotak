@@ -1,27 +1,27 @@
-- name: University of Crete, Computer Science Depart.
+- name: University of Crete, Computer Science Dept.
   dates: 2005 - 2013
   qualification: BSc Computer Science
-  #quote: >
-  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  #description: | # this will include new lines to allow paragraphs
-  #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  quote: >
+    The University of Crete is a young and dynamic academic institution committed to excellence in research & teaching. The University was established in 1973 and accepted its first students in 1977-78.
+  description: | # this will include new lines to allow paragraphs
+    During my time at UoC I studied Multimedia & Video Games, Computer Graphics, Software Designing, Software Development, Computer Architecture, Data Structures & Data Bases, and Mathematics among other subject.
   #
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-- name: National Kapodistrian University of Athens, Geology and Geoenviroment Depart.
+- name: National Kapodistrian University of Athens, Geology and Geoenviroment Dept.
   dates: 2001 - 2005
   #qualification:
-  #quote: >
-  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  #description: | # this will include new lines to allow paragraphs
-  #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  quote: >
+    The idea of establishing a University in Greece emerged alongside with the Greek War of Independence, also known as the Greek Revolution. The National and Kapodistrian University of Athens, officially founded in April 14th, 1837, is the first University not only of Greece but both the Balkan peninsula and the Eastern Mediterranean region.
+  description: | # this will include new lines to allow paragraphs
+    During my time at UoA I studied Economic Geology & Geochemistry, Climatology, Historical Geology & Paleontology, Geophysics, Mineralogy & Petrology, Physical Geography, Remote Sensing, Seismology, and Tectonics & Geological Mapping among other subject.
   #
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-- name: National Kapodistrian University of Athens, Mathematics Depart.
+- name: National Kapodistrian University of Athens, Mathematics Dept.
   dates: 2000 - 2001
   #qualification:
-  #quote: >
-  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-  #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  quote: >
+    The idea of establishing a University in Greece emerged alongside with the Greek War of Independence, also known as the Greek Revolution. The National and Kapodistrian University of Athens, officially founded in April 14th, 1837, is the first University not only of Greece but both the Balkan peninsula and the Eastern Mediterranean region.
+  #description: | # this will include new lines to allow paragraphs
+  #  During my time at UoA I studied Economic Geology & Geochemistry, Climatology, Historical Geology & Paleontology, Geophysics, Mineralogy & Petrology, Physical Geography, Remote Sensing, Seismology, and Tectonics & Geological Mapping among other subject.
   #
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
