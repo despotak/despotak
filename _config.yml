@@ -33,7 +33,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Christos Despotakis is a freelancer video game designer, developer, and software engineer. He obtained his BCompSc from [University of Crete](https://www.uoc.gr), [Computer Science Department](https://www.csd.uoc.gr) and he has also studied Geology and Mathematics at the [Univercity of Athens](https://www.uoa.gr). He is awarded an undergraduate scholarship from [ICS-FORTH](https://www.ics.forth.gr/) for his Diploma work on Interactive Educative Game for the [Ambient Intelligence Lab (AmI)](http://www.ics.forth.gr/ami/index_main.php?l=e&amp;c=4).
 
-  I am most skilled in: <mark>C/C++</mark> and <mark>Eating Pizza</mark>
+  He is most skilled in: <mark>C/C++</mark> and <mark>Eating Pizza</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software engineering some of my other interests and hobbies are:
+  Alongside his interests in software engineering some of his other interests and hobbies are:
    - Pen & Paper Role Playing Games
    - Video Games
    - Cycling
