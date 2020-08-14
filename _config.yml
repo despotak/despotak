@@ -33,9 +33,9 @@ twitch_username: cdr_archangel
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
+gtm: "GTM-0000000"
 gtag: "UA-42452946-1"
-# google_analytics: "UA-42452946-1"
+google_analytics: "UA-42452946-1"
 
 
 # About Section
