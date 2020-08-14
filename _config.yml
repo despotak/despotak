@@ -35,7 +35,7 @@ twitch_username: cdr_archangel
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-42452946-1"
 
 
 # About Section
