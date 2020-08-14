@@ -8,6 +8,9 @@ title: Software Architect and Engineer
 email: christos@despotak.is
 website: christos.despotak.is
 
+# Dark Mode (true/false/never)
+darkmode: true
+
 # Social links
 # -- Work & Carreer --
 github_username:  despotak
@@ -24,8 +27,16 @@ reddit_username: despotak
 # -- Video & Livestreaming --
 youtube_username: despotak
 twitch_username: cdr_archangel
-mixer_username: cdr_archangel
+# mixer_username: cdr_archangel
 # -- VoIP & Chat --
+
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
 
 # About Section
 # about_title: About Me
