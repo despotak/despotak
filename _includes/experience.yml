@@ -4,7 +4,7 @@
   dates: January 2022 - Present
   quote: >
    #
-  description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs.
     Full-stack development of the web-based erp system.
 - company: Self Employed
   link: http://christos.despotak.is/
