@@ -2,6 +2,9 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 1
+
 # Personal info
 name: Christos Despotakis
 title: Software Architect and Engineer
